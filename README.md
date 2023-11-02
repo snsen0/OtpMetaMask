@@ -16,4 +16,7 @@ npm i react-phone-number-input
 npm start
 ```
 
+<br />
+<br />
+
 ![Adsız tasarım](https://github.com/snsen0/OtpMetaMask/assets/148704343/8c7473ff-6df8-46a3-8ea4-a2045cc0a273)
